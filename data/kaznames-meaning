@@ -1,0 +1,606 @@
+[
+    {
+        "name": "ІНЖУ",
+        "meaning": "Inzhu is a Kazakh and Turkic female name meaning 'pearl.' It derives from the Persian word 'īnchū' or 'injü,' also meaning pearl, symbolizing purity, beauty, and preciousness in Kazakh culture."
+    },
+    {
+        "name": "ІҢКӘР",
+        "meaning": "İñkär is a Kazakh name of Turkic origin meaning 'love' or 'affection.' It carries romantic or tender connotations and is used mainly for girls in Kazakhstan, reflecting emotional warmth and sincerity."
+    },
+    {
+        "name": "АДИНА",
+        "meaning": "Adina is a name of Semitic origin meaning 'delicate' or 'gentle,' found in both Hebrew and Arabic contexts. It is also used in Central Asia, where it may blend with local naming traditions and carry the same graceful meaning."
+    },
+    {
+        "name": "АДИЯ",
+        "meaning": "Adiya is a name of Arabic origin meaning 'gift' or 'return.' In Central Asia, it is used among Muslim families and reflects a sense of blessing or gratitude."
+    },
+    {
+        "name": "АИДА",
+        "meaning": "Aida is of Arabic origin meaning 'returning' or 'visitor,' popular across the Muslim world and post-Soviet states. It gained further cultural recognition through Verdi’s opera, which made the name familiar in various languages."
+    },
+    {
+        "name": "АИША",
+        "meaning": "Aisha is an Arabic name meaning 'alive' or 'living,' famously borne by Aisha, wife of the Prophet Muhammad. It is widely used across Muslim-majority countries, including Central Asia, for its historical and spiritual resonance."
+    },
+    {
+        "name": "АЙАРУ",
+        "meaning": "Ayaru is a modern Kazakh feminine name combining 'ay' (moon) and 'aru' (beautiful woman or maiden). The name means 'moon beauty,' symbolizing purity, grace, and natural elegance."
+    },
+    {
+        "name": "АЙГЕРІМ",
+        "meaning": "Aigerim is a Kazakh name formed from 'ay' (moon) and 'gerim' (beautiful, graceful), meaning 'moon beauty.' It gained cultural prominence through Abai Qunanbaiuly’s poetry about his beloved named Aigerim."
+    },
+    {
+        "name": "АЙГЕРИМ",
+        "meaning": "Aygerim is a variant spelling of Aigerim, common in Kazakhstan and among Turkic speakers. It conveys the same meaning—'moon beauty'—and represents poetic femininity in Kazakh culture."
+    },
+    {
+        "name": "АЙГУЛ",
+        "meaning": "Aygul is a Turkic name combining 'ay' (moon) and 'gul' (flower), meaning 'moon flower.' It is common among Turkic-speaking peoples, symbolizing beauty and delicacy under moonlight."
+    },
+    {
+        "name": "АЙГУЛЬ",
+        "meaning": "Aygul (with Russian-style spelling 'Aygul’') carries the same meaning as Aygul, 'moon flower.' The final soft sign reflects Russian orthographic influence during the Soviet period."
+    },
+    {
+        "name": "АЙДАНА",
+        "meaning": "Aydana is a Kazakh and Turkic name meaning 'wise like the moon' or 'moon intellect.' It combines 'ay' (moon) with 'dana' (wise woman), signifying intelligence and purity."
+    },
+    {
+        "name": "АЙЖАН",
+        "meaning": "Aizhan is a popular Kazakh name combining 'ay' (moon) and 'zhan' (soul), meaning 'moon soul' or 'pure soul.' It represents inner beauty and emotional warmth."
+    },
+    {
+        "name": "АЙЗЕРЕ",
+        "meaning": "Aizere is a modern Kazakh name derived from 'ay' (moon) and 'zere' (gold or preciousness), translating roughly as 'precious moon.' It suggests refinement and value."
+    },
+    {
+        "name": "АЙКӨРКЕМ",
+        "meaning": "Aykörkem is a Kazakh name composed of 'ay' (moon) and 'körkem' (beautiful, graceful). It means 'beautiful as the moon,' emphasizing aesthetic and moral beauty."
+    },
+    {
+        "name": "АЙЛИН",
+        "meaning": "Aylin is a name of Turkish origin meaning 'moonlight.' It is common in Turkey and has spread to Central Asia and Eastern Europe, symbolizing calmness and serenity."
+    },
+    {
+        "name": "АЙНУР",
+        "meaning": "Ainur is a Turkic name combining 'ay' (moon) and 'nur' (light in Arabic), meaning 'moonlight.' It is widely used among Turkic and Muslim communities for its luminous and poetic imagery."
+    },
+    {
+        "name": "АЙСАНА",
+        "meaning": "Aisana is a Kazakh feminine name meaning 'moon and glory' or 'noble moon.' It combines 'ay' (moon) with 'sana' (honor, thought), conveying dignity and elegance."
+    },
+    {
+        "name": "АЙСАФИ",
+        "meaning": "Aysafi appears to be a rare modern name combining 'ay' (moon) and possibly 'safi' (pure in Arabic). It would mean 'pure as the moon,' blending Turkic and Arabic elements."
+    },
+    {
+        "name": "АЙША",
+        "meaning": "Aisha (Kazakh: Айша) retains the same Arabic origin meaning 'alive.' It remains one of the most common female names across Muslim communities, valued for its historical and spiritual associations."
+    },
+    {
+        "name": "АЙЫМ",
+        "meaning": "Aiyim is a Kazakh name meaning 'my moon' or 'moon lady.' It conveys affection and admiration, often used to express endearment and poetic beauty."
+    },
+    {
+        "name": "АЛЕКСАНДРА",
+        "meaning": "Aleksandra is the Slavic feminine form of Alexander, derived from Greek meaning 'protector of mankind.' It is a classic name across Eastern Europe and Russia, often shortened to Sasha or Shura."
+    },
+    {
+        "name": "АЛИНА",
+        "meaning": "Alina is of Slavic and possibly Germanic origin meaning 'bright' or 'noble.' It is popular across Russia, Poland, and Central Asia, appreciated for its simple and graceful sound."
+    },
+    {
+        "name": "АЛИЯ",
+        "meaning": "Aliya is of Arabic origin meaning 'exalted' or 'noble.' It is widely used in Muslim cultures and Central Asia, sometimes transliterated as Aliya or Alia depending on language conventions."
+    },
+    {
+        "name": "АЛЛА",
+        "meaning": "Alla is a Slavic name, possibly derived from the Greek 'allos' meaning 'other,' or from Old Hebrew roots meaning 'oak.' It was popular in Russia and Ukraine, particularly in the 20th century."
+    },
+    {
+        "name": "АЛТЫНАЙ",
+        "meaning": "Altynay is a Kazakh name meaning 'golden moon,' from 'altyn' (gold) and 'ay' (moon). It symbolizes radiance, wealth, and enduring beauty."
+    },
+    {
+        "name": "АЛЬБИНА",
+        "meaning": "Albina originates from the Latin 'albus,' meaning 'white' or 'bright.' It became common in Slavic countries, where it symbolizes purity and brightness."
+    },
+    {
+        "name": "АМАНКУЛЬ",
+        "meaning": "Amankul is a traditional Kazakh and Kyrgyz name combining 'aman' (peace) and 'kul' (lake), meaning 'peaceful lake.' It may also denote tranquility or safety."
+    },
+    {
+        "name": "АМИНА",
+        "meaning": "Amina is an Arabic name meaning 'trustworthy' or 'honest,' famously the name of the Prophet Muhammad’s mother. It is widespread in Muslim-majority regions, including Central Asia."
+    },
+    {
+        "name": "АНАР",
+        "meaning": "Anar means 'pomegranate' in Persian and Turkic languages. It symbolizes fertility, beauty, and prosperity, and is used for both male and female names in Central Asia and Azerbaijan."
+    },
+    {
+        "name": "АНАСТАСИЯ",
+        "meaning": "Anastasia is a Greek-origin name meaning 'resurrection.' It is one of the most beloved names in Orthodox Christian cultures, common in Russia, Ukraine, and the Balkans."
+    },
+    {
+        "name": "АНГЕЛИНА",
+        "meaning": "Angelina comes from the Greek 'angelos,' meaning 'messenger' or 'angel.' It is widespread in Slavic countries, associated with kindness and spiritual grace."
+    },
+    {
+        "name": "АНЕЛЬ",
+        "meaning": "Anel is a modern Kazakh name likely derived from 'ana' (mother) and the affectionate suffix '-el,' meaning 'beloved mother' or 'dear one.' It is short, soft, and modern in tone."
+    },
+    {
+        "name": "АННА",
+        "meaning": "Anna is a classic biblical name from Hebrew 'Channah,' meaning 'grace' or 'favor.' It is one of the most universal female names in Christian cultures, including Slavic regions."
+    },
+    {
+        "name": "АНТОНИНА",
+        "meaning": "Antonina is the feminine form of the Roman name Antonius, meaning 'priceless' or 'inestimable.' It was widely used in Eastern Europe and Russia, often shortened to Tonya."
+    },
+    {
+        "name": "АРАЙЛЫМ",
+        "meaning": "Araylym is a Kazakh name combining 'aray' (ray or dawn) and the affectionate suffix '-lym,' meaning 'my light' or 'my dawn.' It evokes warmth, renewal, and affection."
+    },
+    {
+        "name": "АРИНА",
+        "meaning": "Arina is a Russian variant of Irina, derived from the Greek 'Eirene,' meaning 'peace.' It became common in Russia and Belarus as a traditional yet soft-sounding name."
+    },
+    {
+        "name": "АРУЖАН",
+        "meaning": "Aruzhan is a Kazakh name meaning 'pure soul' or 'noble spirit,' from 'aru' (pure) and 'zhan' (soul). It represents kindness and inner beauty."
+    },
+    {
+        "name": "АСЕЛЬ",
+        "meaning": "Asel (or Assel) is a Kazakh name meaning 'honey,' symbolizing sweetness and kindness. It is derived from the Arabic 'asal' and is popular across Central Asia."
+    },
+    {
+        "name": "АСЫЛЫМ",
+        "meaning": "Asylim is a Kazakh name formed from 'asyl' (precious, noble) and '-ym' (my), meaning 'my precious.' It conveys deep affection and esteem."
+    },
+    {
+        "name": "АЯЖАН",
+        "meaning": "Ayazhan is a Kazakh name combining 'aya' (pure or moon) and 'zhan' (soul), meaning 'pure soul.' It is favored for its tender and spiritual tone."
+    },
+    {
+        "name": "АЯЛА",
+        "meaning": "Ayala is a Kazakh name meaning 'to care for' or 'to cherish.' It emphasizes tenderness, compassion, and protection, reflecting family affection."
+    },
+    {
+        "name": "АЯНА",
+        "meaning": "Ayana is a name of Turkic and African origins. In Kazakh, it means 'awareness' or 'clarity,' while in some other cultures it means 'beautiful flower.'"
+    },
+    {
+        "name": "АЯНАТ",
+        "meaning": "Ayanat appears to be a modern Kazakh name, possibly derived from 'ayana' (sign, revelation). It suggests spiritual understanding or divine insight."
+    },
+    {
+        "name": "АЯУЛЫМ",
+        "meaning": "Ayaulym is a Kazakh name combining 'ayau' (to cherish) and '-lym' (my), meaning 'my dear' or 'my beloved.' It conveys warmth and tenderness."
+    },
+    {
+        "name": "АҚБОТА",
+        "meaning": "Aqbotа means 'white camel calf' in Kazakh, a symbol of innocence and good fortune. It is a traditional and endearing female name in Kazakh culture."
+    },
+    {
+        "name": "АҚЕРКЕ",
+        "meaning": "Aqerke is a Kazakh name combining 'aq' (white, pure) and 'erke' (gentle, cherished). It means 'pure and tender' or 'innocent darling.'"
+    },
+    {
+        "name": "БИБИГУЛЬ",
+        "meaning": "Bibigul is a Persian-derived name meaning 'lady of flowers' or 'flower woman,' from 'bibi' (lady) and 'gul' (flower). It is common in Central Asia and associated with beauty and refinement, famously borne by Kazakh singer Bibigul Tulegenova."
+    },
+    {
+        "name": "ВАЛЕНТИНА",
+        "meaning": "Valentina is a Latin-derived Slavic name meaning 'strong' or 'healthy.' It is the feminine form of Valentin and widely used across Russia, Ukraine, and Eastern Europe."
+    },
+    {
+        "name": "ВАЛЕРИЯ",
+        "meaning": "Valeriya comes from the Latin 'valere,' meaning 'to be strong' or 'to be healthy.' It is popular in Russia and Eastern Europe and often shortened to Lera."
+    },
+    {
+        "name": "ВЕРА",
+        "meaning": "Vera is a Slavic name meaning 'faith' or 'truth.' It has Christian roots and symbolizes moral strength and trust, common across Russia and the Balkans."
+    },
+    {
+        "name": "ВИКТОРИЯ",
+        "meaning": "Viktoriya is derived from the Latin 'victoria,' meaning 'victory.' It is associated with triumph and success and remains a classic female name throughout Eastern Europe."
+    },
+    {
+        "name": "ГАЛИНА",
+        "meaning": "Galina is a Greek-origin name meaning 'calm' or 'serene.' It entered Slavic usage through Orthodox tradition and was common in Russia and Ukraine during the 20th century."
+    },
+    {
+        "name": "ГАЛИЯ",
+        "meaning": "Galiya is a name of Turkic and Arabic roots meaning 'precious' or 'valuable.' It is used among Tatar, Kazakh, and Bashkir peoples, reflecting affection and esteem."
+    },
+    {
+        "name": "ГУЛЬЖАН",
+        "meaning": "Gulzhan is a Kazakh and Turkic name combining 'gul' (flower) and 'zhan' (soul), meaning 'flower soul.' It expresses inner beauty and liveliness."
+    },
+    {
+        "name": "ГУЛЬМИРА",
+        "meaning": "Gulmira is of Persian origin, from 'gul' (flower) and 'mira' (princess or peace), meaning 'princess of flowers' or 'peaceful flower.' It is popular in Central Asia."
+    },
+    {
+        "name": "ГУЛЬНАР",
+        "meaning": "Gulnar comes from Persian 'gul-i nar,' meaning 'pomegranate flower.' It symbolizes vitality and fertility and is common in Turkic and Persian-speaking regions."
+    },
+    {
+        "name": "ГУЛЬНАРА",
+        "meaning": "Gulnara is a longer form of Gulnar, with the same meaning 'pomegranate flower.' It was widely used in Central Asia and the Caucasus under Persian influence."
+    },
+    {
+        "name": "ДАНА",
+        "meaning": "Dana is a name of Persian and Turkic origin meaning 'wise' or 'learned.' It is common in Kazakhstan, reflecting intellect and good judgment."
+    },
+    {
+        "name": "ДАРЬЯ",
+        "meaning": "Darya derives from the Persian 'Darya,' meaning 'sea.' It was adopted into Slavic languages and symbolizes depth, vastness, and tranquility."
+    },
+    {
+        "name": "ДИАНА",
+        "meaning": "Diana is a Latin name from the Roman goddess of the moon and hunting. It became popular in both Christian and Muslim societies, symbolizing purity and independence."
+    },
+    {
+        "name": "ДИЛЬНАЗ",
+        "meaning": "Dilnaz comes from Persian roots 'dil' (heart) and 'naz' (tenderness, charm), meaning 'charming heart.' It is popular in Central Asia and evokes affection."
+    },
+    {
+        "name": "ДИНАРА",
+        "meaning": "Dinara has Arabic origin meaning 'gold coin' or 'valuable.' It spread through Muslim cultures and is a common female name in Kazakhstan and Uzbekistan."
+    },
+    {
+        "name": "ЕВГЕНИЯ",
+        "meaning": "Evgeniya is of Greek origin meaning 'noble-born.' It is a traditional Russian and Eastern European name, often shortened to Zhenya."
+    },
+    {
+        "name": "ЕВДОКИЯ",
+        "meaning": "Evdokiya is a Greek-origin Orthodox name meaning 'good will' or 'favor.' It was once popular in Russia and Bulgaria, reflecting piety and kindness."
+    },
+    {
+        "name": "ЕКАТЕРИНА",
+        "meaning": "Yekaterina (Catherine) is of Greek origin meaning 'pure.' It is a regal name borne by Russian empresses, commonly shortened to Katya."
+    },
+    {
+        "name": "ЕЛЕНА",
+        "meaning": "Elena is the Slavic form of Helen, meaning 'light' or 'torch.' It symbolizes radiance and beauty, common throughout Eastern Europe."
+    },
+    {
+        "name": "ЕЛИЗАВЕТА",
+        "meaning": "Elizaveta is the Russian form of Elizabeth, meaning 'God is my oath.' It carries royal associations and remains traditional and elegant."
+    },
+    {
+        "name": "ЖАДЫРА",
+        "meaning": "Zhadyra is a Kazakh name meaning 'joyful' or 'radiant.' It reflects liveliness and optimism in personal character."
+    },
+    {
+        "name": "ЖАЗИРА",
+        "meaning": "Zhazira means 'steppe' or 'wide plain' in Kazakh, symbolizing openness, freedom, and natural beauty typical of Kazakhstan’s landscape."
+    },
+    {
+        "name": "ЖАНАР",
+        "meaning": "Zhanar is a Kazakh name meaning 'to renew' or 'to shine.' It also refers to 'sparkling eyes,' symbolizing liveliness and clarity."
+    },
+    {
+        "name": "ЖАНАТ",
+        "meaning": "Zhanat is a Kazakh name meaning 'paradise' or 'heaven.' It carries connotations of purity, happiness, and spiritual grace."
+    },
+    {
+        "name": "ЖАНЕРКЕ",
+        "meaning": "Zhanerke combines 'zhan' (soul) and 'erke' (cherished, playful), meaning 'beloved soul' or 'dear one.' It is affectionate and warm in tone."
+    },
+    {
+        "name": "ЖАНИЯ",
+        "meaning": "Zhaniya is a Kazakh name derived from 'zhan' (soul) with a soft suffix, meaning 'soulful' or 'kind-hearted.' It conveys tenderness and empathy."
+    },
+    {
+        "name": "ЖАННА",
+        "meaning": "Zhanna is the Russian and Kazakh form of Jeanne (Joan), meaning 'God is gracious.' It became popular in Soviet and post-Soviet periods."
+    },
+    {
+        "name": "ЖАНСАЯ",
+        "meaning": "Zhansaya is a Kazakh name meaning 'soul of grace' or 'tender soul.' It reflects kindness, empathy, and calmness."
+    },
+    {
+        "name": "ЖАСМИН",
+        "meaning": "Zhasmin is the Kazakh transliteration of Jasmine, from Persian origin meaning 'flower of jasmine.' It symbolizes beauty and purity."
+    },
+    {
+        "name": "ЗАРИНА",
+        "meaning": "Zarina is a Persian-derived name meaning 'golden' or 'queenly.' It was historically the name of a Scythian princess and remains popular across Central Asia."
+    },
+    {
+        "name": "ЗЕРЕ",
+        "meaning": "Zere is a Kazakh name meaning 'intelligent' or 'wise woman.' It is admired for its association with intellect and dignity."
+    },
+    {
+        "name": "ЗИНАИДА",
+        "meaning": "Zinaida is a Greek-origin Slavic name meaning 'daughter of Zeus.' It is traditional in Russia and Bulgaria, often shortened to Zina."
+    },
+    {
+        "name": "ЗОЯ",
+        "meaning": "Zoya is of Greek origin meaning 'life.' It is a Christian name symbolizing vitality and spiritual renewal, widely used in Slavic countries."
+    },
+    {
+        "name": "ИНАБАТ",
+        "meaning": "Inabat is a Kazakh and Uzbek name of Arabic origin meaning 'humility' or 'obedience.' It is valued for its spiritual and moral undertones."
+    },
+    {
+        "name": "ИНДИРА",
+        "meaning": "Indira is a Sanskrit name meaning 'beauty' or 'splendor,' also an epithet of the goddess Lakshmi. It became known globally through Indira Gandhi and is occasionally used in Central Asia."
+    },
+    {
+        "name": "ИРИНА",
+        "meaning": "Irina is a Greek-origin name meaning 'peace,' derived from Eirene. It is one of the most widespread female names in Eastern Europe and Russia."
+    },
+    {
+        "name": "КАМИЛА",
+        "meaning": "Kamila is of Arabic and Latin origin, meaning 'perfect' or 'complete.' It is common in Muslim and Slavic societies alike, symbolizing virtue and grace."
+    },
+    {
+        "name": "КАРИНА",
+        "meaning": "Karina is of Latin and Italian origin meaning 'beloved' or 'pure.' It gained popularity in Russia and Central Asia as a modern-sounding name."
+    },
+    {
+        "name": "КАРЛЫГАШ",
+        "meaning": "Karlygash means 'swallow' (the bird) in Kazakh. It symbolizes happiness, return, and hope, reflecting Kazakh folk beliefs about the swallow as a bringer of spring."
+    },
+    {
+        "name": "КРИСТИНА",
+        "meaning": "Kristina is the Slavic and European form of Christina, meaning 'follower of Christ.' It remains a common name in Russia, Belarus, and Ukraine."
+    },
+    {
+        "name": "КСЕНИЯ",
+        "meaning": "Kseniya is of Greek origin meaning 'hospitality' or 'welcoming.' It is associated with Saint Xenia of Petersburg and remains a respected Orthodox name."
+    },
+    {
+        "name": "КУЛЯШ",
+        "meaning": "Kulyash is a Kazakh name of Persian-Turkic origin meaning 'flower-like' or 'blossom.' It was popularized by Kazakh opera singer Kulyash Baiseitova."
+    },
+    {
+        "name": "КӘУСАР",
+        "meaning": "Käusar (Arabic: Kawthar) is an Islamic name meaning 'abundance' or 'river in paradise,' derived from the Qur’an. It symbolizes divine blessing and generosity."
+    },
+    {
+        "name": "КӨЗАЙЫМ",
+        "meaning": "Közayym means 'my beautiful eyes' in Kazakh, from 'kөз' (eye) and 'айым' (my moon or dear). It expresses affection and admiration."
+    },
+    {
+        "name": "КӨРКЕМ",
+        "meaning": "Körkem is a Kazakh word meaning 'beautiful' or 'artistic.' As a name, it denotes both outer beauty and aesthetic sensibility."
+    },
+    {
+        "name": "ЛАРИСА",
+        "meaning": "Larisa is of Greek origin, referring to an ancient Thessalian city name meaning 'citadel.' It became a popular female name in Russia and Eastern Europe."
+    },
+    {
+        "name": "ЛАУРА",
+        "meaning": "Laura derives from the Latin 'laurus,' meaning 'laurel' or 'victory.' It symbolizes honor and success and is used across Europe and Central Asia."
+    },
+    {
+        "name": "ЛИДИЯ",
+        "meaning": "Lidiya comes from the Greek name for a woman from Lydia, an ancient region in Asia Minor. It symbolizes nobility and was popular in Orthodox cultures."
+    },
+    {
+        "name": "ЛЮБОВЬ",
+        "meaning": "Lyubov means 'love' in Russian and is one of the traditional Christian virtue names. It reflects emotional warmth and faith."
+    },
+    {
+        "name": "ЛЮДМИЛА",
+        "meaning": "Lyudmila is a Slavic name meaning 'dear to the people,' from 'lyud' (people) and 'mila' (dear). It embodies kindness and popularity."
+    },
+    {
+        "name": "МАДИНА",
+        "meaning": "Madina is of Arabic origin meaning 'city' or 'holy city,' referring to Medina in Saudi Arabia. It is a widely used Muslim name symbolizing faith and sanctity."
+    },
+    {
+        "name": "МАЙРА",
+        "meaning": "Mayra is of mixed origins—Arabic meaning 'beloved' and in Kazakh sometimes linked to 'May' or springtime. It conveys affection and renewal."
+    },
+    {
+        "name": "МАКПАЛ",
+        "meaning": "Makpal is a Kazakh name meaning 'velvet.' It symbolizes softness, tenderness, and refinement."
+    },
+    {
+        "name": "МАЛИКА",
+        "meaning": "Malika is an Arabic name meaning 'queen.' It signifies nobility and leadership and is common in Central Asian Muslim cultures."
+    },
+    {
+        "name": "МАРИНА",
+        "meaning": "Marina is of Latin origin meaning 'of the sea.' It spread throughout Christian Europe and Russia and evokes serenity and depth."
+    },
+    {
+        "name": "МАРИЯ",
+        "meaning": "Mariya is the Slavic form of Mary, from Hebrew 'Miriam,' meaning 'beloved' or 'wished-for child.' It holds strong biblical and cultural resonance."
+    },
+    {
+        "name": "МАРИЯМ",
+        "meaning": "Mariam is the Arabic form of Mary, widely used in Muslim communities. It shares the same meaning, 'beloved' or 'devoted to God.'"
+    },
+    {
+        "name": "МЕДИНА",
+        "meaning": "Medina is an Arabic name meaning 'city' and refers to the sacred city in Islam. It is popular across Muslim-majority regions for its religious significance."
+    },
+    {
+        "name": "МЕРЕЙ",
+        "meaning": "Merey is a Kazakh name meaning 'honor' or 'prestige.' It reflects social respect, dignity, and pride."
+    },
+    {
+        "name": "МЕРУЕРТ",
+        "meaning": "Meruert means 'pearl' in Kazakh, borrowed from Persian 'morvarid.' It symbolizes purity and beauty and is a classic feminine name."
+    },
+    {
+        "name": "МИЛАНА",
+        "meaning": "Milana is of Slavic and possibly Italian origin, meaning 'gracious' or 'dear.' It has become a modern and elegant name across Eastern Europe."
+    },
+    {
+        "name": "МОЛДИР",
+        "meaning": "Moldir is a Kazakh name meaning 'clear' or 'pure,' often used to describe crystal-clear water. It conveys purity and sincerity."
+    },
+    {
+        "name": "МӘРИЯМ",
+        "meaning": "Märiyam is the Kazakh transliteration of Maryam, the Arabic form of Mary. It means 'beloved' and carries deep religious reverence."
+    },
+    {
+        "name": "МӨЛДІР",
+        "meaning": "Möldir means 'clear' or 'transparent' in Kazakh, often referring to pure water or innocence. It reflects clarity of spirit and honesty."
+    },
+    {
+        "name": "НАДЕЖДА",
+        "meaning": "Nadezhda is a Slavic name meaning 'hope.' It is one of the traditional Christian virtue names and remains a common and respected name in Russia and Eastern Europe."
+    },
+    {
+        "name": "НАЗЕРКЕ",
+        "meaning": "Nazerke is a Kazakh name combining 'naz' (grace, charm) and 'erke' (cherished, gentle), meaning 'graceful darling.' It emphasizes elegance and affection."
+    },
+    {
+        "name": "НАТАЛЬЯ",
+        "meaning": "Natalya comes from the Latin 'natalis,' meaning 'birth' or 'born at Christmas.' It is a classic and enduring name across Slavic countries."
+    },
+    {
+        "name": "НИНА",
+        "meaning": "Nina is a name of multiple origins: in Slavic use it derives from Georgian and means 'dreamer' or 'grace'; in Spanish, it means 'little girl.' It is short, warm, and widely used."
+    },
+    {
+        "name": "НҰРАЙ",
+        "meaning": "Nuray is a Kazakh and Turkic name from 'nur' (light) and 'ay' (moon), meaning 'moonlight' or 'radiant moon.' It signifies beauty and spiritual brightness."
+    },
+    {
+        "name": "ОКСАНА",
+        "meaning": "Oksana is a Ukrainian variant of Xenia, meaning 'hospitality.' It is well known in Eastern Europe and often symbolizes openness and generosity."
+    },
+    {
+        "name": "ОЛЕСЯ",
+        "meaning": "Olesya is of Slavic origin, likely from 'les' (forest), meaning 'girl from the forest.' It conveys naturalness, independence, and calm spirit."
+    },
+    {
+        "name": "ОЛЬГА",
+        "meaning": "Olga derives from the Old Norse 'Helga,' meaning 'holy' or 'blessed.' It entered Slavic use through early Christianization of Kievan Rus."
+    },
+    {
+        "name": "РАИСА",
+        "meaning": "Raisa is of Arabic and Hebrew origins, meaning 'leader' or 'chief.' It also existed in Russian use as a refined, noble-sounding name."
+    },
+    {
+        "name": "РАЙАНА",
+        "meaning": "Rayana is an Arabic name meaning 'gate of heaven' or 'refreshing.' It is used in Muslim cultures and symbolizes spiritual reward and renewal."
+    },
+    {
+        "name": "РАУШАН",
+        "meaning": "Raushan is a Persian and Kazakh name meaning 'bright' or 'radiant.' It expresses light, clarity, and positive energy."
+    },
+    {
+        "name": "РАЯНА",
+        "meaning": "Rayana is a variant of Rayana/Rayana, with the same Arabic root meaning 'gate of paradise.' It carries connotations of purity and divine favor."
+    },
+    {
+        "name": "РОЗА",
+        "meaning": "Roza is derived from Latin 'rosa,' meaning 'rose.' It symbolizes beauty and love, and has been popular across Slavic and Turkic-speaking regions."
+    },
+    {
+        "name": "САБИНА",
+        "meaning": "Sabina comes from the Latin 'Sabine woman,' referring to an ancient Italian tribe. It conveys dignity and tradition, and is widespread in Eastern Europe."
+    },
+    {
+        "name": "САЛТАНАТ",
+        "meaning": "Saltanat is an Arabic-origin name meaning 'splendor' or 'majesty.' In Kazakh, it often denotes grandeur, celebration, or joy."
+    },
+    {
+        "name": "САРА",
+        "meaning": "Sara (or Sarah) is a Hebrew name meaning 'princess.' It is common in both Christian and Muslim traditions and symbolizes nobility and kindness."
+    },
+    {
+        "name": "САУЛЕ",
+        "meaning": "Saule is a Kazakh name meaning 'sun' or 'sunlight.' It symbolizes warmth, brightness, and life, reflecting optimism and energy."
+    },
+    {
+        "name": "САФИЯ",
+        "meaning": "Safiya is an Arabic name meaning 'pure' or 'sincere friend.' It is valued across Muslim cultures for its spiritual and moral associations."
+    },
+    {
+        "name": "СВЕТЛАНА",
+        "meaning": "Svetlana is a Slavic name meaning 'light' or 'radiance.' It became widely used in Russia and symbolizes purity, brightness, and clarity."
+    },
+    {
+        "name": "СЕЗІМ",
+        "meaning": "Sezim is a Kazakh name meaning 'feeling' or 'emotion.' It conveys sensitivity, compassion, and inner depth."
+    },
+    {
+        "name": "СОФИЯ",
+        "meaning": "Sofiya (Sophia) is a Greek name meaning 'wisdom.' It has strong Christian roots and remains one of the most globally enduring names."
+    },
+    {
+        "name": "СЫМБАТ",
+        "meaning": "Symbat is a Kazakh name meaning 'elegance' or 'refined beauty.' It describes gracefulness in both appearance and character."
+    },
+    {
+        "name": "ТАМАРА",
+        "meaning": "Tamara is a Hebrew name meaning 'date palm tree.' It became popular across Orthodox Slavic regions and symbolizes fruitfulness and vitality."
+    },
+    {
+        "name": "ТАТЬЯНА",
+        "meaning": "Tatyana is of Roman origin from 'Tatianus,' meaning 'belonging to the Tatius family.' It is a classic Russian name, often shortened to Tanya."
+    },
+    {
+        "name": "ТАҢШОЛПАН",
+        "meaning": "Tansholpan is a Kazakh name meaning 'morning star' or 'dawn Venus,' symbolizing new beginnings and beauty."
+    },
+    {
+        "name": "ТОМИРИС",
+        "meaning": "Tomiris refers to Queen Tomyris, an ancient Saka ruler. The name symbolizes strength, leadership, and historical pride in Central Asia."
+    },
+    {
+        "name": "ФАРИЗА",
+        "meaning": "Fariza is an Arabic name meaning 'duty' or 'obligation.' It also carries connotations of nobility and is known in Kazakhstan through poet Fariza Ongarsynova."
+    },
+    {
+        "name": "ФАТИМА",
+        "meaning": "Fatima is an Arabic name meaning 'one who abstains' or 'chaste,' famously the name of the Prophet Muhammad’s daughter. It is deeply revered in Islamic tradition."
+    },
+    {
+        "name": "ХАДИША",
+        "meaning": "Khadisha (from Arabic Khadijah) means 'premature child' or 'early-born.' It honors the Prophet Muhammad’s first wife, symbolizing loyalty and faithfulness."
+    },
+    {
+        "name": "ХАДИЯ",
+        "meaning": "Hadiya is of Arabic origin meaning 'gift' or 'present.' It reflects gratitude and divine blessing, popular in Muslim families."
+    },
+    {
+        "name": "ШОЛПАН",
+        "meaning": "Sholpan is a Kazakh name meaning 'Venus' or 'morning star.' It is associated with light, dawn, and beauty in Kazakh folklore."
+    },
+    {
+        "name": "ЭЛЬМИРА",
+        "meaning": "Elmira is a Spanish and Arabic-origin name meaning 'princess' or 'noble lady.' It became widespread in Russia and Central Asia for its elegant sound."
+    },
+    {
+        "name": "ЮЛИЯ",
+        "meaning": "Yuliya (Julia) is a Latin-origin name meaning 'youthful.' It is widely used in Slavic countries and associated with vitality and charm."
+    },
+    {
+        "name": "ЯСИНА",
+        "meaning": "Yasina is a rare Arabic-origin name derived from 'Yasin,' a Quranic chapter, symbolizing spiritual blessing and guidance."
+    },
+    {
+        "name": "ЯСМИНА",
+        "meaning": "Yasmina is derived from 'jasmine,' a Persian-origin flower name symbolizing purity, beauty, and affection. It is popular across Central Asia and the Middle East."
+    },
+    {
+        "name": "ҚАРАҚАТ",
+        "meaning": "Qaraqat means 'blackcurrant' in Kazakh. It is a nature-inspired name reflecting vitality, sweetness, and connection to the land."
+    },
+    {
+        "name": "ӘЙГЕРІМ",
+        "meaning": "Äigerim is the Kazakh spelling of Aigerim, meaning 'beautiful as the moon.' It is one of the most poetic and traditional Kazakh female names."
+    },
+    {
+        "name": "ӘМИНА",
+        "meaning": "Ämina is the Kazakh form of Amina, meaning 'trustworthy' or 'honest.' It is both traditional and religiously significant in Islamic culture."
+    },
+    {
+        "name": "ӘСЕЛ",
+        "meaning": "Äsel means 'honey' in Kazakh, symbolizing sweetness, warmth, and kindness. It is a classic and affectionate female name in Kazakhstan."
+    }
+]

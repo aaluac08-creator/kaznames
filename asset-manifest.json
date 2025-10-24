@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kaznames/static/css/main.a2f570fb.css",
+    "main.js": "/kaznames/static/js/main.8d18b762.js",
+    "index.html": "/kaznames/index.html",
+    "main.a2f570fb.css.map": "/kaznames/static/css/main.a2f570fb.css.map",
+    "main.8d18b762.js.map": "/kaznames/static/js/main.8d18b762.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2f570fb.css",
+    "static/js/main.8d18b762.js"
+  ]
+}
